@@ -7,7 +7,6 @@ These are the desktop applications that have been given the  DSL seal of approva
 
 [Live Version of Site](https://brockdsl.github.io/Desktop-Programs/)
  || [Git Repository](https://github.com/BrockDSL/Desktop-Programs/)
------
 
 ## Anaconda  
 Anaconda is an open source platform for working in Python and R that simplifies package management and deployment.  
