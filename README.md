@@ -1,7 +1,11 @@
 ![DSL Logo](dsl_logo.png)
 
-# The Tools  
-These are the tools that we at the DSL have given our seal of approval!  
+[@brock_dsl](https://twitter.com/brock_dsl)
+
+# Desktop Applications  
+These are the desktop applications that have been given the  DSL seal of approval!  
+
+[Live Version of Site](https://brockdsl.github.io/Desktop-Programs/) || [Git Repository](https://github.com/BrockDSL/Desktop-Programs)
 
 -----
 
