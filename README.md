@@ -5,8 +5,8 @@
 # Desktop Applications  
 These are the desktop applications that have been given the  DSL seal of approval!  
 
-[Live Version of Site](https://brockdsl.github.io/Desktop-Programs/) || [Git Repository](https://github.com/BrockDSL/Desktop-Programs)
-
+[Live Version of Site](https://brockdsl.github.io/Desktop-Programs/)
+ || [Git Repository](https://github.com/BrockDSL/Desktop-Programs/)
 -----
 
 ## Anaconda  
