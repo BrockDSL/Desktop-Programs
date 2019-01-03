@@ -33,6 +33,10 @@ Provides Git functionality from the command line and a Bash shell.
 Open source visualization and exploration software for graphs and netwirk style data sets  
 [https://gephi.org/](https://gephi.org/)  
   
+## Jupyter Portable  
+Jupyter Portable is a portable version of Jupyter Lab for Windows  
+[https://www.portabledevapps.net/jupyter-portable.php](https://www.portabledevapps.net/jupyter-portable.php)  
+  
 ## MATLAB  
 Analysis and design tool for data  
 [https://www.mathworks.com/products/matlab.html](https://www.mathworks.com/products/matlab.html)  
