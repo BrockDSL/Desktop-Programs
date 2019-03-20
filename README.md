@@ -57,7 +57,7 @@ Popular programming language
 [https://www.python.org/](https://www.python.org/)  
   
 ## Power Bi  
-A tool for creating interactive data visualisations.  It is part of Microsoft Office Suite.  
+A tool for creating interactive data visualizations.  It is part of Microsoft Office Suite.  
 [https://powerbi.microsoft.com/en-us/](https://powerbi.microsoft.com/en-us/)  
   
 ## R-Studio  
@@ -85,7 +85,7 @@ A powerful audio analysis, synthesis and processing tool.
 [https://supercollider.github.io/](https://supercollider.github.io/)  
   
 ## Tableau Desktop  
-An popular platform for creating powerful interactive data visualisations.  
+An popular platform for creating powerful interactive data visualizations.  
 [https://www.tableau.com/](https://www.tableau.com/)  
   
 ## Virtual Box
