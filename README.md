@@ -13,7 +13,7 @@ Anaconda is an open source platform for working in Python and R that simplifies 
 [https://www.anaconda.com/](https://www.anaconda.com/)  
   
 ## AntConc  
-AntConc is a program for analysing electronic texts in order to find and reveal patterns in language.  
+AntConc is a program for analyzing electronic texts in order to find and reveal patterns in language.  
 [http://www.laurenceanthony.net/software/antconc/](http://www.laurenceanthony.net/software/antconc/)  
   
 ## ArcGIS Desktop  
@@ -53,7 +53,7 @@ Useful tool for sorting and cleaning data
 [http://openrefine.org/](http://openrefine.org/)  
   
 ## Python 3.X  IDE  
-Popular programing language  
+Popular programming language  
 [https://www.python.org/](https://www.python.org/)  
   
 ## Power Bi  
