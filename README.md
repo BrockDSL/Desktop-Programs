@@ -8,11 +8,11 @@ These are the desktop applications that have been given the  DSL seal of approva
 [Live Version of Site](https://brockdsl.github.io/Desktop-Programs/)
  || [Git Repository](https://github.com/BrockDSL/Desktop-Programs/)
 
-## Anaconda  
+** Anaconda  
 Anaconda is an open source platform for working in Python and R that simplifies package management and deployment.  
 [https://www.anaconda.com/](https://www.anaconda.com/)  
   
-## AntConc  
+** AntConc  
 AntConc is a program for analyzing electronic texts in order to find and reveal patterns in language.  
 [http://www.laurenceanthony.net/software/antconc/](http://www.laurenceanthony.net/software/antconc/)  
   
