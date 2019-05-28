@@ -5,6 +5,8 @@
 # Desktop Applications  
 These are the desktop applications that have been given the  DSL seal of approval!  
 
+-----
+
 **Anaconda**  
 Anaconda is an open source platform for working in Python and R that simplifies package management and deployment.  
 [https://www.anaconda.com/](https://www.anaconda.com/)  
