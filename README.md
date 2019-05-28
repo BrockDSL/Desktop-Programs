@@ -16,19 +16,19 @@ Anaconda is an open source platform for working in Python and R that simplifies 
 AntConc is a program for analyzing electronic texts in order to find and reveal patterns in language.  
 [http://www.laurenceanthony.net/software/antconc/](http://www.laurenceanthony.net/software/antconc/)  
   
-** ArcGIS Desktop **  
+**ArcGIS Desktop**  
 ArcGis Desktop is a Geographic Information System that simplifies working with geographic and map data.  
 [http://desktop.arcgis.com/en/](http://desktop.arcgis.com/en/)  
   
-** Chocolatey  
+**Chocolatey**  
 Package manager for windows that lets you quickly install applications and tools.  
 [https://chocolatey.org/](https://chocolatey.org/)  
   
-** DB Browser for SQLite  
+**DB Browser for SQLite**  
 DB Browser for SQLite ia a graphic user interface for SQLite.  
 [http://sqlitebrowser.org/](http://sqlitebrowser.org/)  
   
-** Git For Windows  
+**Git For Windows**  
 Provides Git functionality from the command line and a Bash shell.  
 [https://git-scm.com/download/win](https://git-scm.com/download/win)  
   
